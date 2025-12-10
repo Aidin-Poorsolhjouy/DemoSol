@@ -13,3 +13,6 @@ plotly
 
 # Required by pandas to read the efficient .parquet file format
 pyarrow
+
+# Production WSGI server for deploying the app
+gunicorn

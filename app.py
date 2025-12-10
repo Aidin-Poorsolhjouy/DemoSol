@@ -193,4 +193,4 @@ def submit_or_cancel_feedback(submit_clicks, cancel_clicks, context_data, feedba
 
 # --- 6. Run the App ---
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run_server(debug=True)
