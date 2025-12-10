@@ -1,0 +1,15 @@
+# ==================================================
+# Requirements for the Proactive Care Dashboard
+# ==================================================
+
+# The core web application framework
+dash
+
+# Used for all data manipulation and analysis (DataFrames)
+pandas
+
+# Used for creating all the interactive charts and graphs
+plotly
+
+# Required by pandas to read the efficient .parquet file format
+pyarrow
